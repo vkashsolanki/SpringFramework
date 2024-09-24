@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;ClassReferenceType&apos;" deleteContents="true" description="Delete resource &apos;ClassReferenceType&apos;" element1="/ClassReferenceType" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1682582860350"/>&#x0A;<refactoring comment="Rename resource &apos;ClassReferenceTyp&apos; to &apos;ClassReferenceType&apos;" description="Rename resource &apos;ClassReferenceTyp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ClassReferenceTyp" name="ClassReferenceType" stamp="1682582873193" updateReferences="true"/>
+</session>
